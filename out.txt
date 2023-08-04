@@ -1,0 +1,14 @@
+pip install numpy
+pip install keras
+pip install tensorflow
+pip install scikit-learn	
+pip install matplotlib	
+pip install pymongo
+pip install pandas
+
+python -m pip install --upgrade pip----optional
+
+
+
+
+
